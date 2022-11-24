@@ -19,7 +19,23 @@
 
 <br />
 
+Hi, I'm [Aunsh](https://aunsh.com), a self-taught full stack developer from India. My passion for software generates from the fact that I can bring my abstract thoughts to reality. I love system desing, UI/UX and ML.
+
+<br />
+
+<img align="center" alt="GIF" src="https://i.postimg.cc/Nf3kcvWX/coding.gif" width="490" height="270" />
+ 
+ <br />
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aunshx&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+<br />
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+<br />
+
+📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=aunshx&show_icons=true&theme=gotham" alt="aunshx" />
