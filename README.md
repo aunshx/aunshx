@@ -35,8 +35,6 @@ Hi, I'm [Aunsh](https://aunsh.com), a self-taught full stack developer from Indi
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-<img align="right" alt="GIF" src="https://i.postimg.cc/Nf3kcvWX/coding.gif" width="490" height="270" />
-
 <br />
 
 I'am currently working freelance for an early-stage start-up but I do take up work on the side.
@@ -44,9 +42,9 @@ I'am currently working freelance for an early-stage start-up but I do take up wo
 - Check out my portfolio website, [aunsh.com](https://aunsh.com)
 <br />
 
-📈 my github stats
+📈 Cheers to all devs out there!
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aunshx&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img align="right" alt="GIF" src="https://i.postimg.cc/Nf3kcvWX/coding.gif" width="490" height="270" />
 <br />
 
 <!--START_SECTION:waka-->
