@@ -27,8 +27,11 @@ Hi, I'm [Aunsh](https://aunsh.com), a self-taught full stack developer from Indi
 <br />
 
 I'am currently working freelance for an early-stage start-up but I do take up work on the side.
-- 💼 any freelance work? do reach, [email](mailto:aunsh.sb@gmail.com) :)
+- 💼 Want me to work for you? Please reach, [email](mailto:aunsh.sb@gmail.com) :)
+- Check out my portfolio website, [aunsh.com](https://aunsh.com)
 <br />
+
+📈 my github stats
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aunshx&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <br />
@@ -36,7 +39,3 @@ I'am currently working freelance for an early-stage start-up but I do take up wo
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 <br />
-
-📈 my github stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=aunshx&show_icons=true&theme=gotham" alt="aunshx" />
