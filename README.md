@@ -44,7 +44,7 @@ I'am currently working freelance for an early-stage start-up but I do take up wo
 
 📈 Cheers to all devs out there!
 
-<img align="right" alt="GIF" src="https://i.postimg.cc/Nf3kcvWX/coding.gif" width="490" height="270" />
+<img align="left" alt="GIF" src="https://i.postimg.cc/Nf3kcvWX/coding.gif" width="490" height="270" />
 <br />
 
 <!--START_SECTION:waka-->
