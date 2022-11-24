@@ -22,8 +22,8 @@
 Hi, I'm [Aunsh](https://aunsh.com), a self-taught full stack developer from India. My passion for software generates from the fact that I can bring my abstract thoughts to reality. I love system desing, UI/UX and ML.
 
 <br />
-**languages and tools:**  
 
+**Skills**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -36,6 +36,7 @@ Hi, I'm [Aunsh](https://aunsh.com), a self-taught full stack developer from Indi
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 <img align="right" alt="GIF" src="https://i.postimg.cc/Nf3kcvWX/coding.gif" width="490" height="270" />
+
 <br />
 
 I'am currently working freelance for an early-stage start-up but I do take up work on the side.
