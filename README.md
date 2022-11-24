@@ -42,6 +42,14 @@ I'am currently working freelance for an early-stage start-up but I do take up wo
 - Check out my portfolio website, [aunsh.com](https://aunsh.com)
 <br />
 
+<br />
+<a href="https://gotuu.in">
+  <img align="left" alt="gotuu.in Home Page" width="30px" src="https://i.postimg.cc/mZ9Yc81Q/gotuu-Logo.png" />
+</a>
+**Introducing - gotuu.in**
+A completefly free time productivity app to efficiently manage your time. Includes time stats as well!
+Check it out [here](https://gotuu.in)! | For more details go [here](https://gotuu.in/about)!
+
 📈 Cheers to all devs out there!
 
 <img align="left" alt="GIF" src="https://i.postimg.cc/Nf3kcvWX/coding.gif" width="490" height="270" />
