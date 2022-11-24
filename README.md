@@ -55,13 +55,11 @@ I'am currently working freelance for an early-stage start-up but I do take up wo
 
 <br />
 A completefly free time productivity app to efficiently manage your time. Includes time stats as well!
+
 <br />
-Check it out 
-[here](https://gotuu.in) 
-! 
-| For more details go 
-[here](https://gotuu.in/about) 
-! 
+
+Check it out [here](https://gotuu.in) ! | For more details go [here](https://gotuu.in/about) ! 
+
 <br />
 
 <br />
