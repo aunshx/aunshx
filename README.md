@@ -49,7 +49,7 @@ I'am currently working freelance for an early-stage start-up but I do take up wo
 <a href="https://gotuu.in">
   <img align="left" alt="gotuu.in Home Page" width="30px" src="https://i.postimg.cc/mZ9Yc81Q/gotuu-Logo.png" />
 </a> 
-### [gotuu.in](https://gotuu.in)**
+### [gotuu.in](https://gotuu.in)
 
 <br />
 A completefly free time productivity app to efficiently manage your time. Includes time stats as well!
