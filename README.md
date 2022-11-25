@@ -72,5 +72,10 @@ Check it out [here](https://gotuu.in) ! | For more details go [here](https://got
 <br />
 
 <!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 <br />
