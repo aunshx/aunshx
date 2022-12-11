@@ -37,7 +37,7 @@ Hi, I'm [Aunsh](https://aunsh.com), a self-taught full stack developer from Indi
 
 <br />
 
-I'am currently working freelance for an early-stage start-up but I do take up work on the side.
+I'm currently working freelance for an early-stage start-up but I do take up work on the side.
 - 💼 Want me to work for you? Please reach, [email](mailto:aunsh.sb@gmail.com) :)
 - Check out my portfolio website, [aunsh.com](https://aunsh.com)
 - I also write on medium about tech stuff - Check it out! [medium](https://aunsh.medium.com)
