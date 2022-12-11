@@ -19,7 +19,7 @@
 
 <br />
 
-Hi, I'm [Aunsh](https://aunsh.com), a self-taught full stack developer from India. My passion for software generates from the fact that I can bring my abstract thoughts to reality. I love system desing, UI/UX and ML.
+Hi, I'm [Aunsh](https://aunsh.com), a self-taught full stack developer from India. My passion for software generates from the fact that I can bring my abstract thoughts to reality. I love system design, UI/UX and ML.
 
 <br />
 
