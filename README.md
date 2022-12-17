@@ -70,12 +70,3 @@ Check it out [here](https://gotuu.in) ! | For more details go [here](https://got
 <br />
 <img align="left" alt="GIF" src="https://i.postimg.cc/Nf3kcvWX/coding.gif" width="490" height="270" />
 <br />
-
-<!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-<br />
