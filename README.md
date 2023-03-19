@@ -1,7 +1,5 @@
 # aunshx
 
-### Namaste
-
 <a href="https://aunsh.com">
   <img align="left" alt="Aunsh's Portfolio Website" width="25px" src="https://i.postimg.cc/qB6VG513/a-removebg-preview.png" />
 </a>
@@ -19,26 +17,22 @@
 
 <br />
 
-Hi, I'm [Aunsh](https://aunsh.com), a self-taught full stack developer from India. My passion for software generates from the fact that I can bring my abstract thoughts to reality. I love system design, UI/UX and ML.
+Namaste! My name is [Aunsh](https://aunsh.com), a self-taught full stack developer from India, In my 24 years on this planet, I've been a national-level cyclist, engineering student, award-winning researcher, high school teacher, and now a software developer. My passion for software generates from the fact that I can bring my abstract thoughts to reality. I love system design, UI/UX and ML.
 
 <br />
 
 **Skills**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 <br />
 
-I'm currently working freelance for an early-stage start-up but I do take up work on the side.
-- 💼 Want me to work for you? Please reach, [email](mailto:aunsh.sb@gmail.com) :)
+I'm currently working as a software engineer at prosperix.com. 
+Right now, I am not taking up freelance work but if you need any advice hit me up!
+- 💼 Want to contact me? Please reach, [email](mailto:aunsh.sb@gmail.com) :)
 - Check out my portfolio website, [aunsh.com](https://aunsh.com)
 - I also write on medium about tech stuff - Check it out! [medium](https://aunsh.medium.com)
 <br />
