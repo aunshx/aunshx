@@ -1,5 +1,7 @@
 # aunshx
 
+#### 01010011 01110100 01101111 01110000 00100000 01110111 01100001 01110011 01110100 01101001 01101110 01100111 00100000 01111001 01101111 01110101 01110010 00100000 01110100 01101001 01101101 01100101 00100000 01100001 01101110 01100100 00100000 01100011 01101111 01100100 01100101
+
 <a href="https://aunsh.com">
   <img align="left" alt="Aunsh's Portfolio Website" width="25px" src="https://i.postimg.cc/qB6VG513/a-removebg-preview.png" />
 </a>
@@ -13,54 +15,25 @@
   <img align="left" alt="Aunsh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=aunshx.aunshx)
+<br />
+
+Name: [Aunsh](https://aunsh.com)
+Graduate student @ University of California, Davis
+
 
 <br />
 
-Namaste! My name is [Aunsh](https://aunsh.com), a self-taught full stack developer from India, In my 24 years on this planet, I've been a national-level cyclist, engineering student, award-winning researcher, high school teacher, and now a software developer. My passion for software generates from the fact that I can bring my abstract thoughts to reality. I love system design, UI/UX and ML.
-
-<br />
-
-**Skills**  
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-<br />
-
-I'm currently working as a software engineer at prosperix.com. 
-Right now, I am not taking up freelance work but if you need any advice hit me up!
-- 💼 Want to contact me? Please reach, [email](mailto:aunsh.sb@gmail.com) :)
+- 💼 Want to contact me? Please reach, [email](mailto:aunsh@ucdavis.edu) :)
 - Check out my portfolio website, [aunsh.com](https://aunsh.com)
 - I also write on medium about tech stuff - Check it out! [medium](https://aunsh.medium.com)
 <br />
 
-### Introducing
-
-<br />
-
-<a href="https://gotuu.in">
-  <img align="left" alt="gotuu.in Home Page" width="30px" src="https://i.postimg.cc/mZ9Yc81Q/gotuu-Logo.png" />
-</a> 
-
-**[gotuu.in](https://gotuu.in)** -> [CLOSED FOR NOW. Rewriting it!]
-
-<br />
-A completefly free time productivity app to efficiently manage your time. Includes time stats as well!
-
-<br />
-
-Check it out [here](https://gotuu.in) ! | For more details go [here](https://gotuu.in/about) ! 
-
-<br />
 
 <br />
 <br />
 <br />
 
-📈 Cheers to all devs out there!
+📈 प्रज्ञानं ब्रह्मा | अयं आत्मा ब्रह्म | तत् त्वम् असि | अहं ब्रह्मास्मि 
 <br />
 <img align="left" alt="GIF" src="https://i.postimg.cc/Nf3kcvWX/coding.gif" width="490" height="270" />
 <br />
