@@ -17,10 +17,11 @@
 <br />
 
 #### My name is [Aunsh](https://aunsh.com) 
-<br />
+
 ##### Graduate student @ University of California, Davis
-<br />
+
 ##### Sofware Engineer | UI/UX | System Design
+
 <br />
 
 <br />
