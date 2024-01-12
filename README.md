@@ -18,18 +18,16 @@
 
 #### My name is [Aunsh](https://aunsh.com) 
 <br />
-
 ##### Graduate student @ University of California, Davis
-
 <br />
-
 ##### Sofware Engineer | UI/UX | System Design
-
 <br />
 
 <br />
 - 💼 Want to contact me? Please reach, [email](mailto:aunsh@ucdavis.edu) :)
+  <br />
 - Check out my portfolio website, [aunsh.com](https://aunsh.com)
+  <br />
 - I also write on medium about tech stuff - Check it out! [medium](https://aunsh.medium.com)
 <br />
 
