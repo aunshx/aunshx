@@ -1,7 +1,7 @@
 # aunshx | अंशएक्स
 
 <br />
-###### 01010011 01110100 01101111 01110000 00100000 01110111 01100001 01110011 01110100 01101001 01101110 01100111 00100000 01111001 01101111 01110101 01110010 00100000 01110100 01101001 01101101 01100101 00100000 01100001 01101110 01100100 00100000 01100011 01101111 01100100 01100101
+01010011 01110100 01101111 01110000 00100000 01110111 01100001 01110011 01110100 01101001 01101110 01100111 00100000 01111001 01101111 01110101 01110010 00100000 01110100 01101001 01101101 01100101 00100000 01100001 01101110 01100100 00100000 01100011 01101111 01100100 01100101
 
 <br />
 
@@ -16,14 +16,14 @@
 
 <br />
 
-##### My name is [Aunsh](https://aunsh.com) 
+#### My name is [Aunsh](https://aunsh.com) 
 <br />
-Graduate student @ University of California, Davis
-<br />
-
+##### Graduate student @ University of California, Davis
 <br />
 
-Sofware Engineer | UI/UX | System Design
+<br />
+
+##### Sofware Engineer | UI/UX | System Design
 
 <br />
 
@@ -40,5 +40,9 @@ Sofware Engineer | UI/UX | System Design
 
 📈 प्रज्ञानं ब्रह्मा | अयं आत्मा ब्रह्म | तत् त्वम् असि | अहं ब्रह्मास्मि 
 <br />
-<img align="left" alt="GIF" src="https://i.postimg.cc/Nf3kcvWX/coding.gif" width="490" height="270" />
+<br />
+
+<br />
+
+<img align="left" alt="GIF" src="https://media.giphy.com/media/YJ85eVpdZDy7e/giphy.gif" width="490" height="270" />
 <br />
