@@ -16,24 +16,20 @@
 
 <br />
 
-#### My name is [Aunsh](https://deploy-preview-5--helpful-hamster-a151d8.netlify.app/) 
+#### My name is [Aunsh](https://deploy-preview-5--helpful-hamster-a151d8.netlify.app/)
 
 ##### Graduate student @ University of California, Davis
 
-##### Sofware Engineer | UI/UX | System Design | ML/AI | LLMs | Distributed Systems
+##### Software Engineer | UI/UX | System Design | ML/AI | LLMs | Distributed Systems
 
 <br />
 
 <br />
+
 - My Link [Tree](https://linktr.ee/aunshb)
-  <br />
 - 💼 Want to contact me? Please reach, [email](mailto:aunsh@ucdavis.edu) :)
-  <br />
 - Check out my [Portfolio Website](https://deploy-preview-5--helpful-hamster-a151d8.netlify.app/)
-  <br />
-- I also write on medium about tech stuff - Check it out! [medium](https://aunsh.medium.com)
-<br />
-
+- I also write on medium about stuff - Check it out! [medium](https://aunsh.medium.com)
 
 <br />
 <br />
@@ -47,3 +43,4 @@
 
 <img align="left" alt="GIF" src="https://media.giphy.com/media/YJ85eVpdZDy7e/giphy.gif" width="490" height="270" />
 <br />
+
