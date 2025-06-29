@@ -8,12 +8,13 @@
 
 <br />
 
-I'm [Aunsh](https://aunsh.dev),
+I'm [Aunsh](https://aun.sh),
 
 - Graduate Student Researcher @ University of California, Davis &#128059;
 - Software Engineer | UI/UX | ML/AI
 - Contact: [email](mailto:aunsh.sb@gmail.com)
-- My [blog](https://aunsh.medium.com)
+- [Blog](https://aunsh.medium.com)
+- Portfolio - [aun.sh](https://aun.sh)
 
 <br />
 
