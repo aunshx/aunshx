@@ -8,18 +8,16 @@
 
 <br />
 
-I'm [Aunsh](https://aun.sh),
+I'm Aunsh
 
 - Graduate Researcher @ University of California, Davis &#128059;
 - Software Engineer | UI/UX | ML/AI
-- [Email](mailto:aunsh.sb@gmail.com)
+- [Email](mailto:aunsh.spb@gmail.com)
 - [Blog](https://aunsh.medium.com)
 - Portfolio - [aun.sh](https://aun.sh)
 
 <br />
 
-प्रज्ञानं ब्रह्मा | अयं आत्मा ब्रह्म | तत् त्वम् असि | अहं ब्रह्मास्मि 
-
-<img align="left" alt="GIF" src="https://media.giphy.com/media/YJ85eVpdZDy7e/giphy.gif" width="490" height="270" />
+<img align="left" alt="GIF" src="https://i.postimg.cc/wM0RF9rb/welcom-ai-overlord.png" width="490" height="270" />
 <br />
 
