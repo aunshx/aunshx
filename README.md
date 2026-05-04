@@ -16,6 +16,8 @@ I'm Aunsh
 - [Blog](https://aunsh.medium.com)
 - Portfolio - [aun.sh](https://aun.sh)
 
+- <b>NEW</b> Developing custom spatial agents for supply chains (aka my thesis). Check it out [here](https://biofred.us)!
+
 <br />
 
 <img align="left" alt="GIF" src="https://i.postimg.cc/wM0RF9rb/welcom-ai-overlord.png" width="490" height="270" />
