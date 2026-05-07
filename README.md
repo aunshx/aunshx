@@ -8,12 +8,10 @@
 
 <br />
 
-I'm Aunsh
+Je m'appelle Aunsh
 
 - Graduate Researcher @ University of California, Davis &#128059;
-- Software Engineer | UI/UX | ML/AI
-- [Email](mailto:aunsh.spb@gmail.com)
-- [Blog](https://aunsh.medium.com)
+- Software Engineer | UI/UX | ML/AI | [Email](mailto:aunsh.spb@gmail.com) | [Blog](https://aunsh.medium.com)
 - Portfolio - [aun.sh](https://aun.sh)
 
 - <b>NEW</b> Developing custom spatial agents for supply chains (aka my thesis). Check it out [here](https://biofred.us)!
