@@ -56,7 +56,7 @@ Currently looking for forward-deployed, AI, and SWE roles. Bay Area, NYC, Seattl
   <img alt="welcome our new AI overlord" src="https://i.postimg.cc/wM0RF9rb/welcom-ai-overlord.png" width="490" height="270" />
 </td>
 <td width="50%" valign="middle" align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=aunshx&theme=dark&hide_border=true&card_width=300&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=aunshx&theme=dark&card_width=300&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
 </td>
 </tr>
 </table>
