@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="760" height="520" viewBox="0 0 760 520" role="img" aria-labelledby="title desc">
 <title id="title">aunsh</title>
-<desc id="desc">Aunsh builds agents that show their work. An agent asks who aunsh is and calls five tools. search: MS ECE, UC Davis. career: co-founder at 8W Research now, software developer at UC Davis and founding engineer at mlpal.ai from 2024, software engineer at Prosperix in 2023. read: FRED at biofred.us, spatial agents over 11.8 million rows with about 1,450 tests, and an agent that opens, reviews and merges its own PRs. status: open to forward-deployed, AI and SWE roles.</desc>
+<desc id="desc">Aunsh builds agents that show their work. An agent asks who aunsh is and calls five tools. search: MS ECE, UC Davis. career: builder at 8W Research now, software developer at UC Davis and founding engineer at mlpal.ai from 2024, software engineer at Prosperix in 2023. read: FRED at biofred.us, spatial agents over 11.8 million rows with about 1,450 tests, and an agent that opens, reviews and merges its own PRs. status: open to forward-deployed, AI and SWE roles.</desc>
 <defs>
 <linearGradient id="grad" x1="0" x2="1" y1="0" y2="0"><stop offset="0" style="stop-color:var(--accent)"/><stop offset="1" style="stop-color:var(--arg)"/></linearGradient>
 <filter id="blur" x="-20%" y="-50%" width="140%" height="200%"><feGaussianBlur stdDeviation="10"/></filter>
@@ -57,7 +57,7 @@ text{font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Libe
 <text x="50" y="254" class="a" style="animation-delay:2.08s"><tspan class="fn">career</tspan><tspan class="m">()</tspan></text>
 <text x="29" y="254" class="ok a" style="animation-delay:2.30s">✓</text>
 <text x="248" y="254" class="m a" style="animation-delay:2.30s">→</text>
-<text x="270" y="254" class="type" style="animation-delay:2.30s;animation-duration:0.19s;animation-timing-function:steps(30,jump-none)"><tspan class="m">now   </tspan><tspan class="r">co-founder, </tspan><tspan class="b">8W Research</tspan></text>
+<text x="270" y="254" class="type" style="animation-delay:2.30s;animation-duration:0.17s;animation-timing-function:steps(27,jump-none)"><tspan class="m">now   </tspan><tspan class="r">builder, </tspan><tspan class="b">8W Research</tspan></text>
 <text x="270" y="278" class="type" style="animation-delay:2.42s;animation-duration:0.23s;animation-timing-function:steps(35,jump-none)"><tspan class="m">2024  </tspan><tspan class="r">software developer, </tspan><tspan class="b">UC Davis</tspan></text>
 <text x="270" y="302" class="type" style="animation-delay:2.54s;animation-duration:0.22s;animation-timing-function:steps(34,jump-none)"><tspan class="m">2024  </tspan><tspan class="r">founding engineer, </tspan><tspan class="b">mlpal.ai</tspan></text>
 <text x="270" y="326" class="type" style="animation-delay:2.66s;animation-duration:0.23s;animation-timing-function:steps(35,jump-none)"><tspan class="m">2023  </tspan><tspan class="r">software engineer, </tspan><tspan class="b">Prosperix</tspan></text>

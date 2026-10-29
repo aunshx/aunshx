@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
-  <img src="assets/hero.svg" width="760" alt="aunsh: builds agents that show their work. An agent calls five tools to work out who Aunsh is: MS ECE from UC Davis; co-founder at 8W Research now, before that software developer at UC Davis, founding engineer at mlpal.ai and software engineer at Prosperix; builds FRED at biofred.us (spatial agents over 11.8M rows, about 1,450 tests, merges its own PRs); open to forward-deployed, AI and SWE roles.">
+  <img src="assets/hero.svg" width="760" alt="aunsh: builds agents that show their work. An agent calls five tools to work out who Aunsh is: MS ECE from UC Davis; builder at 8W Research now, before that software developer at UC Davis, founding engineer at mlpal.ai and software engineer at Prosperix; builds FRED at biofred.us (spatial agents over 11.8M rows, about 1,450 tests, merges its own PRs); open to forward-deployed, AI and SWE roles.">
 </picture>
 
 ### `trace(contributions)`
@@ -37,7 +37,7 @@ I'm thinking of a five-letter word. It's usually something you'd say in a code r
 I'm Aunsh, a software engineer with an MS in ECE from UC Davis.
 I build AI agents that do real work and show how they got there, from the model loop down to the database.
 
-**Now** co-founder at 8W Research, building [FRED](https://biofred.us): spatial agents that show their work, on an 11.8M-row PostGIS store with ~1,450 tests and an agent that ships its own PRs
+**Now** builder at 8W Research, on [FRED](https://biofred.us): spatial agents that show their work, on an 11.8M-row PostGIS store with ~1,450 tests and an agent that ships its own PRs
 
 **Before** software developer at UC Davis (decision-support software for forest resources and renewable energy) · founding engineer at [mlpal.ai](https://mlpal.ai), where I built a RAG agent that picks the right ML model · software engineer at Prosperix (React, GraphQL)
 
@@ -51,7 +51,7 @@ I build AI agents that do real work and show how they got there, from the model 
 
 > The user wants to know who aunsh is. I have five tools and a strong urge to call all of them.
 >
-> search found a person. read found FRED, which is also an agent, so I'm describing a colleague and trying to stay neutral. career came back with a co-founder title and a lot of agents, which tracks. check(status) says Aunsh is looking for work. I'll mention that twice.
+> search found a person. read found FRED, which is also an agent, so I'm describing a colleague and trying to stay neutral. career says "builder", which is the most accurate job title I have ever seen. check(status) says Aunsh is looking for work. I'll mention that twice.
 >
 > Half of this page is redrawn by a bot every night. The bot has never asked for a raise. Aunsh would take one. Hire Aunsh.
 

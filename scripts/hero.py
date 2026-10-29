@@ -18,7 +18,7 @@ CALLS = [
     ([("search", "fn"), ("(", "m"), ('"aunsh"', "arg"), (")", "m")],
      [[("one human. MS ECE, UC Davis. ships agents.", "r")]]),
     ([("career", "fn"), ("()", "m")],
-     [[("now   ", "m"), ("co-founder, ", "r"), ("8W Research", "b")],
+     [[("now   ", "m"), ("builder, ", "r"), ("8W Research", "b")],
       [("2024  ", "m"), ("software developer, ", "r"), ("UC Davis", "b")],
       [("2024  ", "m"), ("founding engineer, ", "r"), ("mlpal.ai", "b")],
       [("2023  ", "m"), ("software engineer, ", "r"), ("Prosperix", "b")]]),
@@ -143,7 +143,7 @@ text{{font-family:{MONO};font-size:{FS}px;fill:var(--text);white-space:pre}}
 
     return f"""<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{height}" viewBox="0 0 {W} {height}" role="img" aria-labelledby="title desc">
 <title id="title">aunsh</title>
-<desc id="desc">Aunsh builds agents that show their work. An agent asks who aunsh is and calls five tools. search: MS ECE, UC Davis. career: co-founder at 8W Research now, software developer at UC Davis and founding engineer at mlpal.ai from 2024, software engineer at Prosperix in 2023. read: FRED at biofred.us, spatial agents over 11.8 million rows with about 1,450 tests, and an agent that opens, reviews and merges its own PRs. status: open to forward-deployed, AI and SWE roles.</desc>
+<desc id="desc">Aunsh builds agents that show their work. An agent asks who aunsh is and calls five tools. search: MS ECE, UC Davis. career: builder at 8W Research now, software developer at UC Davis and founding engineer at mlpal.ai from 2024, software engineer at Prosperix in 2023. read: FRED at biofred.us, spatial agents over 11.8 million rows with about 1,450 tests, and an agent that opens, reviews and merges its own PRs. status: open to forward-deployed, AI and SWE roles.</desc>
 <defs>
 <linearGradient id="grad" x1="0" x2="1" y1="0" y2="0"><stop offset="0" style="stop-color:var(--accent)"/><stop offset="1" style="stop-color:var(--arg)"/></linearGradient>
 <filter id="blur" x="-20%" y="-50%" width="140%" height="200%"><feGaussianBlur stdDeviation="10"/></filter>
