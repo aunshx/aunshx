@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
-  <img src="assets/hero.svg" width="760" alt="An agent answers 'who is aunsh?' with four tool calls. Aunsh is a software engineer with an MS in ECE from UC Davis who builds agents that show their work. Top project: FRED, live at biofred.us. Open to forward-deployed, AI and SWE roles.">
+  <img src="assets/hero.svg" width="760" alt="aunsh: builds agents that show their work. An agent calls five tools to work out who Aunsh is: MS ECE from UC Davis, builds FRED at biofred.us (spatial agents over 11.8M rows, about 1,450 tests, merges its own PRs), open to forward-deployed, AI and SWE roles.">
 </picture>
 
 ### `trace(contributions)`
@@ -35,14 +35,6 @@ I'm thinking of a five-letter word. It's usually something you'd say in a code r
 I'm Aunsh, a software engineer with an MS in ECE from UC Davis.
 I build AI agents that do real work and show how they got there, from the model loop down to the database.
 
-| project | what it is, and how it went |
-|---|---|
-| **[FRED](https://biofred.us)** | Spatial agents that show their work. An agent loop over an 11.8M-row PostGIS store, ~1,450 tests, and a pipeline that proposes, reviews and merges its own PRs. |
-| **[switchboard](https://github.com/aunshx/switchboard)** | A two-stage tool router. The model sees 8 to 12 of 191 tools per query, a 3k-token digest instead of 77k tokens of schemas. |
-| **[watchtower](https://github.com/aunshx/watchtower)** | A GTM agent for Entire. 2,774 public GitHub threads in, 5 worth answering out, 15 drafts for $2.29. |
-| **[cinesis-good-fit](https://github.com/aunshx/cinesis-good-fit)** | Transcript extraction and load ranking. Every field cites a quote that code checks; 8 eval cases, 3 runs each, all stable. |
-| **[react-leaflet-heatmap-layer](https://github.com/aunshx/react-leaflet-heatmap-layer)** | A small open-source heatmap layer for react-leaflet. |
-
 **Stack** Python, TypeScript, React, FastAPI, PostgreSQL and PostGIS, Redis, the Anthropic and OpenAI APIs, GCP
 
 **Open to** forward-deployed, AI and SWE roles in the Bay Area, NYC, Seattle or remote. F-1 STEM OPT. [aun.sh](https://aun.sh) · [aunsh.spb@gmail.com](mailto:aunsh.spb@gmail.com) · [LinkedIn](https://linkedin.com/in/aunsh)
@@ -51,10 +43,10 @@ I build AI agents that do real work and show how they got there, from the model 
 <summary><sub>show thinking</sub></summary>
 <br>
 
-> The user wants to know who aunsh is. I have four tools and a strong urge to call all of them.
+> The user wants to know who aunsh is. I have five tools and a strong urge to call all of them.
 >
-> search found a person. retrieve found three projects. rank put fred first, which feels like a conflict of interest, because fred is also an agent, and agents ranking agents is how this kind of thing starts. check(status) says Aunsh is looking for work. I'll mention that twice.
+> search found a person. read found FRED, which is also an agent, so I'm describing a colleague and trying to stay neutral. pytest passed, which I'm choosing to take personally. check(status) says Aunsh is looking for work. I'll mention that twice.
 >
-> Everything above the line on this page is redrawn by a bot every night. The bot has never asked for a raise. Aunsh would take one. Hire Aunsh.
+> Half of this page is redrawn by a bot every night. The bot has never asked for a raise. Aunsh would take one. Hire Aunsh.
 
 </details>
