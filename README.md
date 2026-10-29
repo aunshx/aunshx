@@ -1,60 +1,52 @@
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
+  <img src="assets/hero.svg" width="760" alt="aunsh: builds agents that show their work. An agent calls five tools to work out who Aunsh is: MS ECE from UC Davis, builds FRED at biofred.us (spatial agents over 11.8M rows, about 1,450 tests, merges its own PRs), open to forward-deployed, AI and SWE roles.">
+</picture>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2500&pause=800&color=0091FF&center=true&vCenter=true&width=600&lines=%24+echo+%22Aunsh%22;%2441756E7368)](https://git.io/typing-svg)
+### `trace(contributions)`
 
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/trace-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/trace-light.svg">
+  <img src="assets/trace.svg" width="760" alt="The last year of GitHub contributions drawn as a trace, one span per month.">
+</picture>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-aun.sh-0091FF?style=for-the-badge&logo=safari&logoColor=white)](https://aun.sh)
-[![Email](https://img.shields.io/badge/Email-aunsh.spb%40gmail.com-0091FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aunsh.spb@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-aunsh-0091FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aunsh)
+### `log(public=true, limit=5)`
 
-```
-$ whoami
-ECE @ UCD.
-I build AI systems that ship.
+<!-- commits:start -->
+- [`f68a10e`](https://github.com/eight-west/.github/commit/f68a10e0710086eaef64bd5a148587c309ad4af3) [**.github**](https://github.com/eight-west/.github) Remove badge links from README <sub>Oct 29</sub>
+- [`5ae10ac`](https://github.com/eight-west/fred-docs/commit/5ae10ac0d3595b8384cb55e2c5a2a23e6a5b27f5) [**fred-docs**](https://github.com/eight-west/fred-docs) get the docs indexed: real addresses, real content, real 404s (#7) <sub>Oct 28</sub>
+- [`95550fb`](https://github.com/eight-west/fred-docs/commit/95550fbd3fe6a7006e1eb634903a55e58af6b70a) [**fred-docs**](https://github.com/eight-west/fred-docs) paint the canvas before the docs mount and hold back the crawler stub (#6) <sub>Oct 28</sub>
+- [`aef3373`](https://github.com/aunshx/neetcode-subs/commit/aef3373005555a20d0f111c75e598fa095c4b1bc) [**neetcode-subs**](https://github.com/aunshx/neetcode-subs) Add: search-in-rotated-sorted-array-ii - submission-3 <sub>Oct 25</sub>
+- [`4e1f2ff`](https://github.com/aunshx/neetcode-subs/commit/4e1f2ff3b295f95b5a97df37eca83c27f49ccbb9) [**neetcode-subs**](https://github.com/aunshx/neetcode-subs) Add: longest-repeating-substring-with-replacement - submission-3 <sub>Oct 25</sub>
+<!-- commits:end -->
 
-$ now
-Building spatial agents for supply chains (biofred.us)
-Open to: Forward-deployed, AI, SWE roles
-Location: Bay Area, NYC, Seattle, or remote
+### `play(word="?????")`
 
-$ git log --author=aunsh --oneline -5
-a1b2c3d  feat(biofred): auth + runs persistence layer + dashboard UI
-e4f5g6h  feat(biofred): SSE streaming for agent runs
-9c8d7e1  feat(reaktr): NLP copilot retrieval pipeline
-4f3e2d1  fix(cecdss): tile rendering for large biomass clusters
-7a6b5c4  feat(resview): D3 PBFT consensus visualization
-```
+I'm thinking of a five-letter word. It's usually something you'd say in a code review. **[Guess it](https://github.com/aunshx/aunshx/issues/new?title=guess%3A%20&body=Put%20your%20five-letter%20word%20in%20the%20title%20after%20%60guess%3A%60%20and%20submit.%20A%20bot%20replies%20with%20your%20hints%20in%20about%20a%20minute.)** by opening an issue titled `guess: <word>`. A bot replies with your hints, six tries a day, new word at 00:00 UTC. No AI on the other end, just a regex and a hash.
 
-###### What I do
-
-I work on applied AI and software: full-stack dev, frontend, backend, dBs, agents, retrieval and spatial.
-
-Currently looking for forward-deployed, AI, and SWE roles. Bay Area, NYC, Seattle, remote. F-1 STEM OPT, sponsorship-friendly.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logo=chromadb&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-
-<b>NEW</b> Building custom spatial agents for supply chains. Check it out [here](https://biofred.us)!
+<!-- game:start -->
+**Today** nobody has guessed yet. Be first.
+<!-- game:end -->
 
 ---
 
-<div align="center">
-<table border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td width="50%" valign="middle" align="center">
-  <img alt="welcome our new AI overlord" src="https://i.postimg.cc/wM0RF9rb/welcom-ai-overlord.png" width="490" height="270" />
-</td>
-</tr>
-</table>
-</div>
+I'm Aunsh, a software engineer with an MS in ECE from UC Davis.
+I build AI agents that do real work and show how they got there, from the model loop down to the database.
+
+**Stack** Python, TypeScript, React, FastAPI, PostgreSQL and PostGIS, Redis, the Anthropic and OpenAI APIs, GCP
+
+**Open to** forward-deployed, AI and SWE roles in the Bay Area, NYC, Seattle or remote. F-1 STEM OPT. [aun.sh](https://aun.sh) · [aunsh.spb@gmail.com](mailto:aunsh.spb@gmail.com) · [LinkedIn](https://linkedin.com/in/aunsh)
+
+<details>
+<summary><sub>show thinking</sub></summary>
+<br>
+
+> The user wants to know who aunsh is. I have five tools and a strong urge to call all of them.
+>
+> search found a person. read found FRED, which is also an agent, so I'm describing a colleague and trying to stay neutral. pytest passed, which I'm choosing to take personally. check(status) says Aunsh is looking for work. I'll mention that twice.
+>
+> Half of this page is redrawn by a bot every night. The bot has never asked for a raise. Aunsh would take one. Hire Aunsh.
+
+</details>

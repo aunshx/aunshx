@@ -1,0 +1,40 @@
+name: guess
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  guess:
+    if: startsWith(github.event.issue.title, 'guess:')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      # The title and login are attacker-controlled: they reach the script
+      # through env only and are never expanded into a shell command.
+      - name: score the guess
+        id: score
+        env:
+          GUESS_TITLE: ${{ github.event.issue.title }}
+          GUESS_USER: ${{ github.event.issue.user.login }}
+          GAME_SALT: ${{ secrets.GAME_SALT }}
+          REPLY_PATH: ${{ runner.temp }}/reply.md
+        run: bash scripts/publish.sh "score a guess" python3 scripts/game.py guess
+      - name: reply and close
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+          ISSUE: ${{ github.event.issue.number }}
+          OUTCOME: ${{ steps.score.outcome }}
+          REPLY_PATH: ${{ runner.temp }}/reply.md
+        run: |
+          if [ "$OUTCOME" = success ] && [ -s "$REPLY_PATH" ]; then
+            gh issue comment "$ISSUE" --repo "$GITHUB_REPOSITORY" --body-file "$REPLY_PATH"
+          else
+            gh issue comment "$ISSUE" --repo "$GITHUB_REPOSITORY" --body "Something broke on my end and that guess didn't count. Try again in a bit."
+          fi
+          gh issue close "$ISSUE" --repo "$GITHUB_REPOSITORY" --reason completed

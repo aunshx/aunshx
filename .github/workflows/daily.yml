@@ -1,0 +1,22 @@
+name: daily
+
+on:
+  schedule:
+    - cron: "7 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  redraw:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: redraw the trace, commits and game
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          GAME_SALT: ${{ secrets.GAME_SALT }}
+        run: |
+          bash scripts/publish.sh "redraw the profile for $(date -u +%F)" \
+            bash -c 'python3 scripts/trace.py && python3 scripts/commits.py && python3 scripts/game.py rollover'
