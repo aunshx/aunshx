@@ -27,7 +27,9 @@
 I'm thinking of a five-letter word. It's usually something you'd say in a code review. **[Guess it](https://github.com/aunshx/aunshx/issues/new?title=guess%3A%20&body=Put%20your%20five-letter%20word%20in%20the%20title%20after%20%60guess%3A%60%20and%20submit.%20A%20bot%20replies%20with%20your%20hints%20in%20about%20a%20minute.)** by opening an issue titled `guess: <word>`. A bot replies with your hints, six tries a day, new word at 00:00 UTC. No AI on the other end, just a regex and a hash.
 
 <!-- game:start -->
-**Today** nobody has guessed yet. Be first.
+**Today** 1 playing, 0 solved.
+
+[aunshx](https://github.com/aunshx) ⬛⬛🟩🟩⬛<br>
 <!-- game:end -->
 
 ---

@@ -1,6 +1,14 @@
 {
  "date": "2026-10-29",
- "players": {},
+ "players": {
+  "aunshx": {
+   "rows": [
+    "⬛⬛🟩🟩⬛"
+   ],
+   "solved": false,
+   "seq": 1
+  }
+ },
  "solved": [],
  "yesterday": null
 }
