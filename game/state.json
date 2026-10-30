@@ -1,14 +1,11 @@
 {
- "date": "2026-10-29",
- "players": {
-  "aunshx": {
-   "rows": [
-    "⬛⬛🟩🟩⬛"
-   ],
-   "solved": false,
-   "seq": 1
-  }
- },
+ "date": "2026-10-30",
+ "players": {},
  "solved": [],
- "yesterday": null
+ "yesterday": {
+  "date": "2026-10-29",
+  "word": "plans",
+  "players": 1,
+  "solved": 0
+ }
 }
