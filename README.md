@@ -12,26 +12,6 @@
   <img src="assets/trace.svg" width="760" alt="The last year of GitHub contributions drawn as a trace, one span per month.">
 </picture>
 
-### `log(public=true, limit=5)`
-
-<!-- commits:start -->
-- [`f68a10e`](https://github.com/eight-west/.github/commit/f68a10e0710086eaef64bd5a148587c309ad4af3) [**.github**](https://github.com/eight-west/.github) Remove badge links from README <sub>Oct 29</sub>
-- [`5ae10ac`](https://github.com/eight-west/fred-docs/commit/5ae10ac0d3595b8384cb55e2c5a2a23e6a5b27f5) [**fred-docs**](https://github.com/eight-west/fred-docs) get the docs indexed: real addresses, real content, real 404s (#7) <sub>Oct 28</sub>
-- [`95550fb`](https://github.com/eight-west/fred-docs/commit/95550fbd3fe6a7006e1eb634903a55e58af6b70a) [**fred-docs**](https://github.com/eight-west/fred-docs) paint the canvas before the docs mount and hold back the crawler stub (#6) <sub>Oct 28</sub>
-- [`aef3373`](https://github.com/aunshx/neetcode-subs/commit/aef3373005555a20d0f111c75e598fa095c4b1bc) [**neetcode-subs**](https://github.com/aunshx/neetcode-subs) Add: search-in-rotated-sorted-array-ii - submission-3 <sub>Oct 25</sub>
-- [`4e1f2ff`](https://github.com/aunshx/neetcode-subs/commit/4e1f2ff3b295f95b5a97df37eca83c27f49ccbb9) [**neetcode-subs**](https://github.com/aunshx/neetcode-subs) Add: longest-repeating-substring-with-replacement - submission-3 <sub>Oct 25</sub>
-<!-- commits:end -->
-
-### `play(word="?????")`
-
-I'm thinking of a five-letter word. It's usually something you'd say in a code review. **[Guess it](https://github.com/aunshx/aunshx/issues/new?title=guess%3A%20&body=Put%20your%20five-letter%20word%20in%20the%20title%20after%20%60guess%3A%60%20and%20submit.%20A%20bot%20replies%20with%20your%20hints%20in%20about%20a%20minute.)** by opening an issue titled `guess: <word>`. A bot replies with your hints, six tries a day, new word at 00:00 UTC. No AI on the other end, just a regex and a hash.
-
-<!-- game:start -->
-**Today** nobody has guessed yet. Be first.
-
-Yesterday's word was `plans`. 0 of 1 got it.
-<!-- game:end -->
-
 ---
 
 I'm Aunsh, a software engineer with an MS in ECE from UC Davis.
